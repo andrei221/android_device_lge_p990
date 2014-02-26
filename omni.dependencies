@@ -1,0 +1,20 @@
+[
+  {
+    "remote":      "andrei221",
+    "repository":  "android_device_lge_p990",
+    "target_path": "device/lge/p990",
+    "revision":    "omni-4.4"
+  },
+  {
+    "remote":      "tonyp",
+    "repository":  "android_device_lge_star-common",
+    "target_path": "device/lge/star-common",
+    "revision":    "omni-4.4"
+  },
+{
+    "remote":      "tonyp",
+    "repository":  "lge-kernel-star",
+    "target_path": "kernel/lge/star",
+    "revision":    "omni-4.4"
+  }
+]
