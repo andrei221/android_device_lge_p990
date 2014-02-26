@@ -28,7 +28,7 @@ $(call inherit-product, device/lge/p990/device.mk)
 
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := omni_p990
+PRODUCT_NAME := full_p990
 PRODUCT_DEVICE := p990
 PRODUCT_BRAND := lge
 PRODUCT_MANUFACTURER := LGE
