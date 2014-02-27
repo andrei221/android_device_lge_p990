@@ -4,7 +4,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit device configuration
 $(call inherit-product, device/lge/p990/p990.mk)
 
-PRODUCT_NAME := cm_p990
+PRODUCT_NAME := omni_p990
 
 # Release name and versioning
 PRODUCT_RELEASE_NAME := Optimus2X
